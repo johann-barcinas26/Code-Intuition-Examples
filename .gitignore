@@ -1,0 +1,42 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.pdb
+*.ilk
+*.exp
+*.map
+
+# Build directories
+build/
+Build/
+out/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# VS Code (uncomment if you don't want to track editor config)
+# .vscode/
+
+# Precompiled headers
+*.gch
+*.pch
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiler/linter output
+compile_err.txt
+*.log
