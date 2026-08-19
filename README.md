@@ -1,6 +1,6 @@
 # Code Intuition Examples
 
-A collection of small C++ programs for practicing core language concepts — written while working through codeintution course on DSA patterns. Additionally, supplementary material from learncpp.com. I am writing, debugging, and developing different programs in what I learn.
+A collection of small C++ programs and Python programs for practicing core language concepts — written while working through codeintution course on DSA patterns. Additionally, supplementary material from learncpp.com. I am writing, debugging, and developing different programs in what I learn.
 
 ## Resources
 [learncpp.com](https://www.learncpp.com/).
@@ -13,6 +13,10 @@ A collection of small C++ programs for practicing core language concepts — wri
 - [`Array/multiArray.cpp`](Array/multiArray.cpp) — 2D/3D array construction, dynamic allocation, and traversal
 - [`Array/rowMajorTraversal.cpp`](Array/rowMajorTraversal.cpp) — row-major traversal of a matrix using `vector<vector<int>>`
 - [`Array/palindromeChecker.cpp`](Array/palindromeChecker.cpp) — two-pointer palindrome check on a string
+- [`Array/reverseWords.cpp`](Array/reverseWords.cpp) — reverse the word order in a string
+- [`Array/vowelExchange.cpp`](Array/vowelExchange.cpp) — swap/replace vowels in a string
+- [`Array/reverse_word_order.py`](Array/reverse_word_order.py) — reverse word order in a string in-place using two-pointer swaps
+- [`Array/twoSum.py`](Array/twoSum.py) — two-sum via sort + two-pointer scan
 
 ## Building
 
