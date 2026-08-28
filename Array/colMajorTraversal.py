@@ -1,6 +1,4 @@
-
 from typing import List
-
 
 class Solution:
     def column_major_traversal(
